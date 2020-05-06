@@ -1,4 +1,4 @@
 This is a software that receives marketing/business data such as customers' data and then implements machine learning algorithms (K-means) to segment the customer based on their features.
 The input excel contains the features data. (See the attached sample input Picture).
 Then run the code on three steps pointed on panel.
-The outcome of the code is an excel with features and cluster numbers columns' names. (See the attached sample output Picture)
+The outcome of the code is an excel with features and cluster numbers columns' names. (See the attached sample output Picture.)
